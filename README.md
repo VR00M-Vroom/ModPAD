@@ -23,8 +23,14 @@
 # Bill of Materials 
 ---------------------------------------------------
 6x Keyswitches
+-
 6x Keycaps
+-
 1x EC11 Rotary Encoder
+-
 1x Rotary Encoder Cap
+-
 1x Seeed Studios Xiao RP2040-DIP (With Pinheaders)
+-
 1x .91 inch OLED 
+-
