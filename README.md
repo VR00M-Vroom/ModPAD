@@ -18,7 +18,11 @@
 
 ## Schematic
 
+
 <img width="1070" height="731" alt="Screenshot 2025-11-26 114048" src="https://github.com/user-attachments/assets/047f3b69-f682-4eec-84b6-b3b91a302c0e" />
+
+# Final
+![WIN_20260101_18_34_28_Pro](https://github.com/user-attachments/assets/989b45df-dceb-4042-b02f-9fd37be74fb5)
 
 # Bill of Materials 
 ---------------------------------------------------
